@@ -17,7 +17,7 @@
 </div>
 
 ## About
-- I am a B.Tech Information Technology student at SGGSIE&T, Nanded with a CGPA of 7.9/10.
+- I am a B.Tech Information Technology student at SGGSIE&T, Nanded.
 - I love building scalable applications and contributing to open-source projects. (Innovation through Code!)
 - Currently exploring Web Development, DevOps, and Cloud Technologies.
 - 💬 Feel free to ask me anything related to Full Stack Development, DSA, or Tech in general!
@@ -43,7 +43,7 @@
 
 | 💡 **Project** | 🛠️ **Tech Stack** | 🌟 **Highlights** | 🔗 **Links** |
 |:---:|:---:|:---:|:---:|
-| **[Paperless College Management System ](https://github.com/akashm011/hackfusion-project)** | React.js, TypeScript, Full-Stack Development | Top 5 Nationwide Hackathon Winner | [Live Demo](https://hackfusion-project.vercel.app) |
+| **[Paperless College Management System ](https://github.com/akashm011/hackfusion-project)** | Full-Stack Development | Top 5 Nationwide Hackathon Winner | [Live Demo](https://hackfusion-project.vercel.app) |
 | **[Chitrasamvad](https://github.com/GAURAV8520/ConnectHub)** | Next.js, React.js, Tailwind CSS, Clerk, Stream API | 100+ concurrent users, <200ms latency | [Live Demo](http://www.chitrasamvad.site) |
 | **[SkyTalk](https://github.com/GAURAV8520/SkyTalk)** | React.js, Express.js, MongoDB, JWT | 10+ active users, Real-time social network | [Live Demo](https://skytalk-19j6.onrender.com) |
 | **[Saarathi AI](https://github.com/GAURAV8520/Gemini_Ai-Clone)** | React.js, Gemini AI API, Tailwind CSS | 10,000+ text analysis requests, 95% accuracy | [Live Demo](https://gemini-ai-clone-kohl.vercel.app/) |

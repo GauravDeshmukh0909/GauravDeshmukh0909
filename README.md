@@ -23,10 +23,7 @@ I'm a passionate **Full Stack Developer** with expertise in **Java, MERN Stack, 
 - 📫 How to reach me: **gauravdeshmukh0909@gmail.com**.
 ---
 
-## Open Source Contributions
-| 🎁 Repo | ✨ Contributions |
-| --- | --- |
-| [KubeEdge](https://github.com/kubeedge/kubeedge) | [Pull Requests](https://github.com/kubeedge/kubeedge/pulls?q=+is%3Apr+author%3ADhiren-Mhatre+) |
+
 
 ### 💻 Tech Stack
 

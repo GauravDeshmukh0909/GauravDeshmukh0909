@@ -67,30 +67,23 @@
 
 ---
 
-## 🛠️ Technology Arsenal
+## 🛠️ Tech Stack & Tools
+
 
 <div align="center">
 
-**Languages & Frameworks**  
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,django,bootstrap,tailwind&theme=dark" />
-
-**Databases & DevOps**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,git,github,docker,aws,vercel,netlify&theme=dark" />
-
-**Design & Tools**  
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,django,bootstrap,tailwind,mysql,mongodb,postgresql,git,github,docker,aws,vercel,netlify,figma&theme=dark" />
 
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+
+
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🤝 **Let's Connect & Build Together!**
+
+*Thanks for visiting! ⭐ Star some repositories if you found them interesting!*
 
 </div>
-
----

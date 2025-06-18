@@ -43,10 +43,10 @@
 
 | 💡 **Project** | 🛠️ **Tech Stack** | 🌟 **Highlights** | 🔗 **Links** |
 |:---:|:---:|:---:|:---:|
-| **[Paperless College Management System ](https://gauravdeshmukh.tech)** | React.js, TypeScript, Full-Stack Development | Top 5 Nationwide Hackathon Winner | [Live Demo](https://gauravdeshmukh.tech) |
-| **[Chitrasamvad](https://gauravdeshmukh.tech)** | Next.js, React.js, Tailwind CSS, Clerk, Stream API | 100+ concurrent users, <200ms latency | [Live Demo](https://gauravdeshmukh.tech) |
-| **[SkyTalk](https://gauravdeshmukh.tech)** | React.js, Express.js, MongoDB, JWT | 1,000+ active users, Real-time social network | [Live Demo](https://gauravdeshmukh.tech) |
-| **[Saarathi AI](https://gauravdeshmukh.tech)** | React.js, Gemini AI API, Tailwind CSS | 10,000+ text analysis requests, 95% accuracy | [Live Demo](https://gauravdeshmukh.tech) |
+| **[Paperless College Management System ](https://github.com/akashm011/hackfusion-project)** | React.js, TypeScript, Full-Stack Development | Top 5 Nationwide Hackathon Winner | [Live Demo](https://hackfusion-project.vercel.app) |
+| **[Chitrasamvad](https://github.com/GAURAV8520/ConnectHub)** | Next.js, React.js, Tailwind CSS, Clerk, Stream API | 100+ concurrent users, <200ms latency | [Live Demo](http://www.chitrasamvad.site) |
+| **[SkyTalk](https://github.com/GAURAV8520/SkyTalk)** | React.js, Express.js, MongoDB, JWT | 10+ active users, Real-time social network | [Live Demo](https://skytalk-19j6.onrender.com) |
+| **[Saarathi AI](https://github.com/GAURAV8520/Gemini_Ai-Clone)** | React.js, Gemini AI API, Tailwind CSS | 10,000+ text analysis requests, 95% accuracy | [Live Demo](https://gemini-ai-clone-kohl.vercel.app/) |
 
 
 </div>
@@ -57,10 +57,11 @@
 
 | 🎖️ **Achievement** | 📊 **Metrics** | 🌍 **Scope** |
 |:---:|:---:|:---:|
-| **DSA Problem Solving** | [700+ Problems Solved](https://gauravdeshmukh.tech) | Multiple Platforms |
+| **DSA Problem Solving** | [700+ Problems Solved](https://codolio.com/profile/gaurav9999) | Multiple Platforms |
+| **Hackathon Winner** | Top 5 Finalist | Nationwide Competition |
 | **TCS CodeVita** | Rank 2,633 / 450,000 | Global Competition |
 | **LeetCode Contest 427** | Rank 4,927 / 22,325 | Global Rankings |
-| **Hackathon Winner** | Top 5 Finalist | Nationwide Competition |
+
 
 </div>
 

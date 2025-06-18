@@ -78,12 +78,17 @@
 
 ---
 
+## 📖 Quotes I Like
+
+- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." — [James Clear](https://en.wikipedia.org/wiki/James_Clear), *Atomic Habits*
+
+- "When we strive to become better than we are, everything around us becomes better too." — Paulo Coelho, *The Alchemist*
+
+- "And, when you want something, all the universe conspires in helping you to achieve it." — Paulo Coelho, *The Alchemist*
+
+- "Believe it can be done. When you believe something can be done, really believe, your mind will find the ways to do it." — David J. Schwartz, *The Magic of Thinking Big*
+
+- "Action cures fear. Indecision, postponement, on the other hand, fertilize fear." — David J. Schwartz, *The Magic of Thinking Big*
 
 
-<div align="center">
 
-## 🤝 **Let's Connect & Build Together!**
-
-*Thanks for visiting! ⭐ Star some repositories if you found them interesting!*
-
-</div>

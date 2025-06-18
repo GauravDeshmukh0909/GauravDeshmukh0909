@@ -43,7 +43,7 @@
 
 | 💡 **Project** | 🛠️ **Tech Stack** | 🌟 **Highlights** | 🔗 **Links** |
 |:---:|:---:|:---:|:---:|
-| **College Administration Platform** | Full-Stack Development | Top 5 Nationwide Hackathon Winner | [GitHub](https://github.com/GauravDeshmukh0909) |
+| **[Paperless College Management System ](https://gauravdeshmukh.tech)** | React.js, TypeScript, Full-Stack Development | Top 5 Nationwide Hackathon Winner | [Live Demo](https://gauravdeshmukh.tech) |
 | **[Chitrasamvad](https://gauravdeshmukh.tech)** | Next.js, React.js, Tailwind CSS, Clerk, Stream API | 100+ concurrent users, <200ms latency | [Live Demo](https://gauravdeshmukh.tech) |
 | **[SkyTalk](https://gauravdeshmukh.tech)** | React.js, Express.js, MongoDB, JWT | 1,000+ active users, Real-time social network | [Live Demo](https://gauravdeshmukh.tech) |
 | **[Saarathi AI](https://gauravdeshmukh.tech)** | React.js, Gemini AI API, Tailwind CSS | 10,000+ text analysis requests, 95% accuracy | [Live Demo](https://gauravdeshmukh.tech) |

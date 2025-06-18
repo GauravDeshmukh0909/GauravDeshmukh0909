@@ -61,18 +61,6 @@ I'm a passionate **Full Stack Developer** with expertise in **Java, MERN Stack, 
 
 ---
 
-### 📊 GitHub Stats
-
-Here's a snapshot of my GitHub activity:
-
-![](https://github-readme-stats.vercel.app/api?username=GauravDeshmukh0909&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=GauravDeshmukh0909&theme=blue_navy&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDeshmukh0909&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
 ### 🚀 Let's Connect!
 
 I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/gaurav-deshmukh-32a460276/) or [Email](mailto:gauravdeshmukh0909@gmail.com).

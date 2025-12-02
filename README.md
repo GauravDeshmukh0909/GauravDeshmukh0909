@@ -11,7 +11,7 @@
     <td><a href="https://github.com/GauravDeshmukh0909"><img src="https://img.shields.io/github/followers/GauravDeshmukh0909.svg?label=GitHub&style=social" alt="GitHub"></a></td>
     <td><a href="https://linkedin.com/in/gaurav-deshmukh-32a460276/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:gauravdeshmukh0909@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
-    <td><a href="https://gauravdeshmukh.tech"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=vercel" alt="Portfolio"></a></td>
+    <!-- <td><a href="https://gauravdeshmukh.tech"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&logo=vercel" alt="Portfolio"></a></td> -->
   </tr>
 </table>
 </div>
